@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9074vui92xi496hq?svg=true)](https://ci.appveyor.com/project/NedoNeo/hw9)
